@@ -1,0 +1,5 @@
+# Python dependencies for SQL Server DBA AI Agent
+google-genai>=2.0.0
+pyodbc>=5.0.0
+python-dotenv>=1.0.0
+
